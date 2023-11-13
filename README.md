@@ -1,8 +1,8 @@
 # Big-Ideas-Final-Project
 ## Finding the best neighborhood in Pittsburgh.
 #### Group Name: GROUP888
-#### Group Member: Leo Tuckey, David Shi, Joe Wang
+##### Group Members: LeoTuckey, DavidShi, JoeWang
 #### Considerations
-* Air Pollution (By Leo)
+* Education (By Leo)
 * Crime Rate (By David)
 * Average Fire Incidents (By Joe)
