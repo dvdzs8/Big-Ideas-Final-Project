@@ -4,4 +4,4 @@
 #### Considerations
 * Air Pollution
 * Crime Rate
-* Average Income Rate
+* Average Fire Incidents
