@@ -10,6 +10,7 @@ https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts
 
 * School Enrollment - Leo Tuckey - lwt9@pitt.edu
 https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment
+https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts
 
 * Income Rate - David Shi dzs19@pitt.edu
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/d159c6b3-f70a-439b-bd2b-0cb8735d76d4
